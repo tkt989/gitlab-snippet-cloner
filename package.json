@@ -7,7 +7,7 @@
     "snippet"
   ],
   "bin": {
-    "gitlab-snippets": "bin/main.js"
+    "gitlab-snippet-cloner": "bin/main.js"
   },
   "author": {
     "name": "tkt989",
