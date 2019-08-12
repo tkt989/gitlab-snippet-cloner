@@ -1,0 +1,23 @@
+{
+  "name": "gitlab-snippet-cloner",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "gitlab",
+    "snippet"
+  ],
+  "bin": {
+    "gitlab-snippets": "bin/main.js"
+  },
+  "author": {
+    "name": "tkt989",
+    "email": "tkt989.dev@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "chalk": "^2.4.2",
+    "log": "^6.0.0",
+    "prompts": "^2.2.1"
+  }
+}
