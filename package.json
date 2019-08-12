@@ -1,11 +1,16 @@
 {
   "name": "gitlab-snippet-cloner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "keywords": [
     "gitlab",
     "snippet"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tkt989/gitlab-snippet-cloner.git"
+  },
+  "homepage": "https://github.com/tkt989/gitlab-snippet-cloner",
   "bin": {
     "gitlab-snippet-cloner": "bin/main.js"
   },
