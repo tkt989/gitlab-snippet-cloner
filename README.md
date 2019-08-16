@@ -1,5 +1,4 @@
-gitlab-snippet-cloner
-===
+# gitlab-snippet-cloner
 
 # Install
 
