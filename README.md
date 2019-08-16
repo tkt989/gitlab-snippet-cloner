@@ -12,8 +12,8 @@ npm install -g gitlab-snippet-cloner
 $ gitlab-snippet-cloenr \
   --gitlab-url <Gitlab server URL> \
   --access-token <Access token> \
-  --source-project <Source project name. e.g. tkt989/gitlab-snipper-cloner> \
-  --destination-project <destionation project name>
+  --src-project <Source project name. e.g. tkt989/gitlab-snipper-cloner> \
+  --dst-project <destionation project name>
 ```
 
 or
