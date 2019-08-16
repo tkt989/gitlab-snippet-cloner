@@ -25,5 +25,9 @@
     "log": "^6.0.0",
     "prompts": "^2.2.1",
     "yargs": "^13.3.0"
+  },
+  "devDependencies": {
+    "axios-mock-adapter": "^1.17.0",
+    "jest": "^24.9.0"
   }
 }
