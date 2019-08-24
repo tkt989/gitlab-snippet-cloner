@@ -1,6 +1,6 @@
 {
   "name": "gitlab-snippet-cloner",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "",
   "keywords": [
     "gitlab",
@@ -23,7 +23,12 @@
     "axios": "^0.19.0",
     "chalk": "^2.4.2",
     "log": "^6.0.0",
+    "ora": "^3.4.0",
     "prompts": "^2.2.1",
     "yargs": "^13.3.0"
+  },
+  "devDependencies": {
+    "axios-mock-adapter": "^1.17.0",
+    "jest": "^24.9.0"
   }
 }
